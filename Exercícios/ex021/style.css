@@ -1,0 +1,25 @@
+@charset
+
+body{
+    background-color: greenyellow;
+    text-align: center;
+
+}
+nav{
+    background-color: lightgrey;
+}
+header{
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
+main{
+    background-color: beige;
+    border-radius: 3px;
+    border: auto
+    wid 
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
